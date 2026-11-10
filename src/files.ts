@@ -1,6 +1,6 @@
 export const allFiles = [
     {
-        "url": "https: //media.alealeale.dev/a3dd006155f52d9d69d2a31f5f6dd68c5d81e5f0372da54a13532a44fffe4d4e_7ca95c22-a1f5-4f66-a664-aaa099755941.png"
+        "url": "https://media.alealeale.dev/a3dd006155f52d9d69d2a31f5f6dd68c5d81e5f0372da54a13532a44fffe4d4e_7ca95c22-a1f5-4f66-a664-aaa099755941.png"
     },
     {
         "url": "https://media.alealeale.dev/2945fb9adcfdd4a153d295f55ba6d92c4e8926c3fc6adafc0d19878c7f847741_f15c5b95-a082-4f05-9a52-7dd804c7ccf0.png"

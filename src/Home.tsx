@@ -39,11 +39,11 @@ export const Home = () => {
                 ))}
             </div>
             <div className="flex flex-row justify-between my-(--space-2)">
-                <div>
-                    @asciughino_
+                <div className="underline">
+                    <a href="https://instagram.com/asciughino_">@asciughino_</a>
                 </div>
-                <div>
-                    github
+                <div className="underline">
+                    <a href="https://github.com/atancredi">github</a>
                 </div>
             </div>
         </div>
